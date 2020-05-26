@@ -1,0 +1,1 @@
+This is done on macOS and set the brightness target to 80cd/m^2.
