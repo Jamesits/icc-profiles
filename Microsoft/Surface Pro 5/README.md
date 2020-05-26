@@ -1,0 +1,1 @@
+Note: Surface Pro 5 is measured under the default "Enhanced" color profile. 
