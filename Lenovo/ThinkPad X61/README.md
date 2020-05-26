@@ -1,0 +1,1 @@
+All profiles for ThinkPad X61 is generated under Linux.
