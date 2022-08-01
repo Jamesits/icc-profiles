@@ -1,0 +1,52 @@
+2022-08-01 19:51:10,190 --------------------------------------------------------------------------------
+2022-08-01 19:51:10,190 Working directory:
+2022-08-01 19:51:10,190   /
+2022-08-01 19:51:10,190    tmp/
+2022-08-01 19:51:10,190     DisplayCAL-6rc9zncg/
+2022-08-01 19:51:10,190 
+2022-08-01 19:51:10,190 Command line:
+2022-08-01 19:51:10,190   /usr/bin/dispread
+2022-08-01 19:51:10,190     -v
+2022-08-01 19:51:10,190     -k
+2022-08-01 19:51:10,190     /usr/share/DisplayCAL/linear.cal
+2022-08-01 19:51:10,190     -d1
+2022-08-01 19:51:10,190     -c1
+2022-08-01 19:51:10,190     -yn
+2022-08-01 19:51:10,190     -P0.5,0.5,1.5
+2022-08-01 19:51:10,190     0_16
+2022-08-01 19:51:10,190 
+2022-08-01 19:51:10,195 DisplayCAL: Starting interaction with subprocess
+2022-08-01 19:51:13,705 Number of patches = 3
+2022-08-01 19:51:13,705 Number of patches = 3
+2022-08-01 19:51:13,706 Setting up the instrument
+2022-08-01 19:51:13,706 Setting up the instrument
+2022-08-01 19:51:14,918 Product Name:      i1Display3
+2022-08-01 19:51:14,918 Product Name:      i1Display3
+2022-08-01 19:51:14,918 Serial Number:     C3-21.B-02.012513.06
+2022-08-01 19:51:14,918 Serial Number:     C3-21.B-02.012513.06
+2022-08-01 19:51:14,918 Firmware Version:  v2.28
+2022-08-01 19:51:14,918 Firmware Version:  v2.28
+2022-08-01 19:51:14,918 Firmware Date:     29Jan14
+2022-08-01 19:51:14,918 Firmware Date:     29Jan14
+2022-08-01 19:51:15,137 Place instrument on test window.
+2022-08-01 19:51:15,138 Place instrument on test window.
+2022-08-01 19:51:15,140 DisplayCAL: Waiting for send buffer
+2022-08-01 19:51:15,140 DisplayCAL: Detected instrument placement (screen/spot) message
+2022-08-01 19:51:16,642 DisplayCAL: Skipping place instrument on screen message...
+2022-08-01 19:51:16,647 DisplayCAL: Send buffer received:
+2022-08-01 19:51:16,647 DisplayCAL: Sending buffer: ' '
+2022-08-01 19:51:16,698 Hit Esc or Q to give up, any other key to continue:
+2022-08-01 19:51:16,699 Hit Esc or Q to give up, any other key to continue:
+2022-08-01 19:51:19,302 Measured display update delay of 16 msec, using delay of 121 msec & 0 msec inst reaction
+2022-08-01 19:51:19,302 Measured display update delay of 16 msec, using delay of 121 msec & 0 msec inst reaction
+2022-08-01 19:51:24,462 Patch 3 of 3
+2022-08-01 19:51:24,462 Patch 3 of 3
+2022-08-01 19:51:24,462 The instrument can be removed from the screen.
+2022-08-01 19:51:24,462 The instrument can be removed from the screen.
+2022-08-01 19:51:24,766 Written '0_16.ti3'
+2022-08-01 19:51:24,766 Written '0_16.ti3'
+2022-08-01 19:51:24,773 DisplayCAL: Reached EOF (OK)
+2022-08-01 19:51:24,874 dispread exitcode: 0
+2022-08-01 19:51:24,878 RGB level 0 is 0.191464 cd/m2
+2022-08-01 19:51:24,878 RGB level 16 is 1.033301 cd/m2
+2022-08-01 19:51:24,878 Assuming full range output levels
