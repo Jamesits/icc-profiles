@@ -1,16 +1,26 @@
+Calibrite PROFILER 3 HDR 有 bug，输出仅供参考，不要使用。
+
 # 参数
 
 ## 校色仪
 
 ColorChecker Studio
 
-设置：Monitor/Basic
+设置：Monitor/Advanced
 
 - Luminance: Native
+- Gamma: sRGB
 
 ## 端口
 
-DP
+HDMI 1
+
+## 显卡设置
+
+Desktop Color depth：32bit
+Output color depth：8bpc
+Output color format：RGB
+Output dynamic range：Full
 
 ## 显示器设置
 
@@ -24,7 +34,7 @@ DP
 
 颜色设置
 
-- 色温：User/50/50/50
+- 色温：6500K
 - Gamma：2.2
 - 色调：50
 - 饱和度：50
@@ -34,6 +44,6 @@ DP
 其他设置
 
 - FreeSync：关闭
-- HDR：关闭
+- HDR：启用
 - OD：关闭
 - UHD144Mode：启用

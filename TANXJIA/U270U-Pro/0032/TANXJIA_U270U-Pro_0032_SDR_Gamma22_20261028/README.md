@@ -11,7 +11,7 @@ ColorChecker Studio
 
 ## 端口
 
-HDMI 1
+DP
 
 ## 显卡设置
 
